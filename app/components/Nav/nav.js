@@ -7,13 +7,13 @@ export const navPage = () =>
             <figure><img class="mainLogo" src="https://res.cloudinary.com/ddtufnl04/image/upload/v1665494182/nba-logo-black-and-white_ktxztx.png" alt=""></figure>
     </li>
     <li>
-            <a href="#" id="homeLink">HOME</a>
+            <a href="#" id="homeLink">INICIO</a>
       </li>
         <li>
-            <a href="#" id="teamsLink">TEAMS</a>
+            <a href="#" id="teamsLink">EQUIPOS</a>
         </li>
       <li>
-            <a href="#" id="takeALookLink">TAKE A LOOK</a>
+            <a href="#" id="takeALookLink">TAKE A LOOK!</a>
             </li>
     </ul>
 </nav> `
