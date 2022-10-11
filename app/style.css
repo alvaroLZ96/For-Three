@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Gemunu+Libre:wght@600&display=swap');
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+    color:inherit;
+}
+
+li{
+    list-style-type:none;
+}
+
+:root{
+    --primary:#dbffed;
+    --secondary:#bf4950;
+    --navbar: #042d47;
+}
+
+body{
+    background-color: var(--primary) ;
+    color: var(--navbar)
+}
+

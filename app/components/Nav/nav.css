@@ -1,0 +1,32 @@
+nav{
+    display: flex;
+    height: 12vh;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+        background-color: var(--navbar);
+        color: var(--secondary);
+        font-family:'Anton', sans-serif;
+        letter-spacing: 0.1rem;
+        font-size:1.5rem;
+    
+    }
+    nav > ul{
+        display: flex;
+        align-items: center;
+        gap:5rem;
+    }
+    .mainLogo{
+        height: 8vw;
+        display:flex;
+    
+    }
+    nav> ul > li > a{
+        display: flex;
+        align-content: center;
+        transition: all 0.3s ease-in-out
+       /*  por que no me lo centra?? */
+    }
+    nav > ul >li  a:hover{
+        color:var(--primary)
+    }
