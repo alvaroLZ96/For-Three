@@ -1,6 +1,6 @@
 nav{
     display: flex;
-    height: 12vh;
+    height: auto;
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-around;
@@ -9,6 +9,7 @@ nav{
         font-family:'Anton', sans-serif;
         letter-spacing: 0.1rem;
         font-size:1.5rem;
+        padding:0.5rem
     
     }
     nav > ul{
@@ -17,7 +18,7 @@ nav{
         gap:5rem;
     }
     .mainLogo{
-        height: 8vw;
+        height: 6vw;
         display:flex;
     
     }

@@ -1,3 +1,4 @@
+import "./home.css"
 import { cleanPage } from "../../utils/cleanPage";
 
 export const home = () =>{
@@ -5,7 +6,7 @@ export const home = () =>{
     cleanPage(app);
     app.innerHTML = `
     <section class="home">
-            <h1> FOR THREE! </h1>
+    <img src="<img src="https://c.tenor.com/_u-gDFZQuIQAAAAC/basketball-sports.gif" alt="Basketball"/>
     </section>
     `
 

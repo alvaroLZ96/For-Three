@@ -3,22 +3,22 @@ section{
     flex-wrap: wrap;
     gap: 0.5rem;
     justify-content: center;
-    ;
+    
+
 }
 .card{
    height: 30vh;
     transition: padding 1s ease-in-out;
     font-family: sans-serif;
+    align-content: center;
     border-radius: 10%;
     width: 30vw;
+    display: flex;
     
     
 }
 .card:hover{
-    padding:1rem;
-    height: 60vh;
-    width: 60vw;
-   
+    padding:1.5rem;    
 }
 
 .card >.description{
