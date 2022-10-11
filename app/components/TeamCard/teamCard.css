@@ -1,6 +1,35 @@
-.card{
-    display:flex;
+section{
+    display: flex;
     flex-wrap: wrap;
-    height: 30vh;
-    width:30vw;
+    gap: 0.5rem;
+    justify-content: center;
+    ;
+}
+.card{
+   height: 30vh;
+    transition: padding 1s ease-in-out;
+    font-family: sans-serif;
+    border-radius: 10%;
+    width: 30vw;
+    
+    
+}
+.card:hover{
+    padding:1rem;
+    height: 60vh;
+    width: 60vw;
+   
+}
+
+.card >.description{
+    background-color:var(--transparent);
+    padding:1rem;
+    border-radius: 10%;
+    align-content: center;
+    width: 100%;
+    color:#dbffede3;
+    
+}
+.card >.description:hover{
+display:block
 }

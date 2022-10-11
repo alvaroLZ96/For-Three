@@ -15,3 +15,8 @@ teams()
 
 linkPage("#homeLink", home);
 linkPage("#teamsLink", teams);
+
+/* const divEvent = document.querySelectorAll(".description"); */
+
+
+//cuando haga hover sobre el div, hazme un display block 

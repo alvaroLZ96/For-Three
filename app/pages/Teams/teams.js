@@ -16,8 +16,11 @@ const printTeams =(list) =>{
      const app = document.querySelector("#app");
         cleanPage(app);
         app.appendChild(section);
+        
 }
 
 export const teams =()=>{
     getTeams();
+  
+    
 };
