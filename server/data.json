@@ -10,7 +10,7 @@
       "division": "Atlántico",
       "conference": "Este",
       "creationYear": "1946",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665486561/celtics_omviva.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486561/celtics_omviva.png"
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
       "division": "Atlántico",
       "conference": "Este",
       "creationYear": "1967",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665486562/nets_prx83w.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,w_250/v1665504872/nba-brooklyn-nets-logo_x8fsdj.png"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "division": "Atlántico",
       "conference": "Este",
       "creationYear": "1946",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665486562/knicks_rop5qq.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_300/v1665486562/knicks_rop5qq.png"
     },
     {
       "id": 4,
@@ -37,7 +37,7 @@
       "division": "Atlántico",
       "conference": "Este",
       "creationYear": "1946",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665486563/sixers_vgqqtr.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486563/sixers_vgqqtr.png"
     },
     {
       "id": 5,
@@ -46,7 +46,7 @@
       "division": "Atlántico",
       "conference": "Este",
       "creationYear": "1995",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665486563/raptors_k4x3zt.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486563/raptors_k4x3zt.png"
     },
 
     {
@@ -56,7 +56,7 @@
       "division": "Central",
       "conference": "Este",
       "creationYear": "1966",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665486561/chicago_mrvfqd.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_200/v1665486561/chicago_mrvfqd.png"
     },
     {
       "id": 7,
@@ -65,7 +65,7 @@
       "division": "Central",
       "conference": "Este",
       "creationYear": "1970",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665486561/cavaliers_yfpjbm.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_230/v1665486561/cavaliers_yfpjbm.png"
     },
     {
       "id": 8,
@@ -74,7 +74,7 @@
       "division": "Central",
       "conference": "Este",
       "creationYear": "1941",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665486563/pistons_ff9fl3.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486563/pistons_ff9fl3.png"
     },
     {
       "id": 9,
@@ -83,7 +83,7 @@
       "division": "Central",
       "conference": "Este",
       "creationYear": "1967",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665486563/pacers_knaetu.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486563/pacers_knaetu.png"
     },
     {
       "id": 10,
@@ -92,7 +92,7 @@
       "division": "Central",
       "conference": "Este",
       "creationYear": "1968",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665486561/buscks_ghhnmo.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486561/buscks_ghhnmo.png"
     },
     {
       "id": 11,
@@ -101,7 +101,7 @@
       "division": "Sureste",
       "conference": "Este",
       "creationYear": "1946",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665486561/ataltn_p9gspf.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486561/ataltn_p9gspf.png"
     },
     {
       "id": 12,
@@ -110,7 +110,7 @@
       "division": "Sureste",
       "conference": "Este",
       "creationYear": "1988",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665486562/hornets_zkpfec.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486562/hornets_zkpfec.png"
     },
     {
       "id": 13,
@@ -119,7 +119,7 @@
       "division": "Sureste",
       "conference": "Este",
       "creationYear": "1988",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665486562/miami_zyhk6s.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_200/v1665486562/miami_zyhk6s.png"
     },
     {
       "id": 14,
@@ -128,7 +128,7 @@
       "division": "Sureste",
       "conference": "Este",
       "creationYear": "1989",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665486562/magic_na5vri.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486562/magic_na5vri.png"
     },
     {
       "id": 15,
@@ -137,7 +137,7 @@
       "division": "Sureste",
       "conference": "Este",
       "creationYear": "1961",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665486563/wizards_pfbxuq.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486563/wizards_pfbxuq.png"
     },
     {
       "id": 16,
@@ -146,7 +146,7 @@
       "division": "Noroeste",
       "conference": "Oeste",
       "creationYear": "1967",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665486562/nuggets_e254gi.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_220/v1665486562/nuggets_e254gi.png"
     },
     {
       "id": 17,
@@ -155,7 +155,7 @@
       "division": "Noroeste",
       "conference": "Oeste",
       "creationYear": "1989",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665486563/timberwolves_mby8jz.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,w_300/v1665486563/timberwolves_mby8jz.png"
     },
     {
       "id": 18,
@@ -164,7 +164,7 @@
       "division": "Noroeste",
       "conference": "Oeste",
       "creationYear": "1967",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665486563/thunder_rfnm9x.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_220/v1665486562/nuggets_e254gi.png"
     },
     {
       "id": 19,
@@ -173,7 +173,7 @@
       "division": "Noroeste",
       "conference": "Oeste",
       "creationYear": "1970",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665486561/blazers_doxoik.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_200/v1665486561/blazers_doxoik.png"
     },
     {
       "id": 20,
@@ -182,7 +182,7 @@
       "division": "Noroeste",
       "conference": "Oeste",
       "creationYear": "1974",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665486562/jazz_z5kec9.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486562/jazz_z5kec9.png"
     },
     {
       "id": 21,
@@ -191,7 +191,7 @@
       "division": "Pacífico",
       "conference": "Oeste",
       "creationYear": "1946",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665486563/warriors_zzak4j.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_230/v1665486563/warriors_zzak4j.png"
     },
     {
       "id": 22,
@@ -200,7 +200,7 @@
       "division": "Pacífico",
       "conference": "Oeste",
       "creationYear": "1970",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665486562/clippers_gln1g6.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486562/clippers_gln1g6.png"
     },
     {
       "id": 23,
@@ -212,7 +212,7 @@
       "division": "Pacífico",
       "conference": "Oeste",
       "creationYear": "1947",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665486562/lakers_xlwopz.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486562/lakers_xlwopz.png"
     },
     {
       "id": 24,
@@ -221,7 +221,7 @@
       "division": "Pacífico",
       "conference": "Oeste",
       "creationYear": "1968",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665486563/suns_s7hryr.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_220/v1665486563/suns_s7hryr.png"
     },
     {
       "id": 25,
@@ -230,7 +230,7 @@
       "division": "Pacífico",
       "conference": "Oeste",
       "creationYear": "1923",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665486562/kings_as5ytn.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486562/kings_as5ytn.png"
     },
     {
       "id": 26,
@@ -239,7 +239,7 @@
       "division": "Suroeste",
       "conference": "Oeste",
       "creationYear": "1980",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665486562/dallas_z5gnrc.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_200/v1665486562/dallas_z5gnrc.png"
     },
     {
       "id": 27,
@@ -248,7 +248,7 @@
       "division": "Suroeste",
       "conference": "Oeste",
       "creationYear": "1967",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665486562/houston_dnpj0a.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486562/houston_dnpj0a.png"
     },
     {
       "id": 28,
@@ -257,7 +257,7 @@
       "division": "Suroeste",
       "conference": "Oeste",
       "creationYear": "1995",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665486562/grizzlies_wcdyw0.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_200/v1665486562/grizzlies_wcdyw0.png"
     },
     {
       "id": 29,
@@ -266,7 +266,7 @@
       "division": "Suroeste",
       "conference": "Oeste",
       "creationYear": "2002",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665486563/pelicans_hywwjh.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_200/v1665486563/pelicans_hywwjh.png"
     },
     {
       "id": 30,
@@ -275,7 +275,7 @@
       "division": "Suroeste",
       "conference": "Oeste",
       "creationYear": "1967",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665486563/spurs_ck8hj9.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486563/spurs_ck8hj9.png"
     }
   ],
   "players": [

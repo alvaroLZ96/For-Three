@@ -6,7 +6,7 @@ export const home = () =>{
     cleanPage(app);
     app.innerHTML = `
     <section class="home">
-    <img src="<img src="https://c.tenor.com/_u-gDFZQuIQAAAAC/basketball-sports.gif" alt="Basketball"/>
+   
     </section>
     `
 

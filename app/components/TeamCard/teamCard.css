@@ -2,10 +2,14 @@ section{
     display: flex;
     flex-wrap: wrap;
     gap: 0.5rem;
-    justify-content: center;
+    justify-content: center; 
     
 
 }
+.teamsSection{
+    background-color: white
+}
+
 .card{
    height: 30vh;
     transition: padding 1s ease-in-out;
