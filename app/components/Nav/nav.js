@@ -13,7 +13,7 @@ export const navPage = () =>
             <a href="#" id="teamsLink">EQUIPOS</a>
         </li>
       <li>
-            <a href="#" id="takeALookLink">TAKE A LOOK!</a>
+            <a href="#" id="playersLink">TAKE A LOOK!</a>
             </li>
     </ul>
 </nav> `

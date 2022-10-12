@@ -9,5 +9,5 @@ export const teamCard = (item) =>
             <p>Conferencia: ${item.conference}</p>
              <p>Palmarés: ${item.winnerYear.length}</p>
         </div>
-     </figure>
+     </figure>  
     `;
