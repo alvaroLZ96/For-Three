@@ -283,7 +283,7 @@
       "id": 1,
       "player": "Larry Bird",
       "teamName": "Boston Celtics",
-      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665566064/players/1449_ii1ibe.png"
+      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,w_500/v1665596250/players/1449_ii1ibe.png"
     },
     {
       "id": 2,
@@ -295,61 +295,61 @@
       "id": 3,
       "player": "Patrick Ewing",
       "teamName": "New York Knicks",
-      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665568472/players/165_hmbc50.png"
+      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,w_600/v1665597658/players/121_ya5efc.png"
     },
     {
       "id": 4,
       "player": "Julius Erving ",
       "teamName": "Philadelphia Sixers",
-      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665567263/players/76681_hfsqmx.png"
+      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,w_600/v1665567263/players/76681_hfsqmx.png"
     },
     {
       "id": 5,
       "player": "Vince Carter",
       "teamName": "Toronto Raptors",
-      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665569635/players/103-1034350_allen-iverson-wallpaper-nuggets-vince-carter-no-background_a02bji.png"
+      "playerImage": "https://a.espncdn.com/i/headshots/nba/players/full/136.png"
     },
     {
       "id": 6,
       "player": "Michael Jordan",
       "teamName": "Chicago Bulls",
-      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665566432/players/Michael-Jordan-PNG_fwraqb.png"
+      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,w_600/v1665597753/players/latest_bgad5x.png"
     },
     {
       "id": 7,
       "player": "Lebron James",
       "teamName": "Cleveland Cavaliers",
-      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665566505/players/rw1j3m_large_aw2uiw.png"
+      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,w_600/v1665566505/players/rw1j3m_large_aw2uiw.png"
     },
     {
       "id": 8,
       "player": "Isiah Thomas",
       "teamName": "Detroit Pistons",
-      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665566688/players/78318_jue4tl.png"
+      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,w_600/v1665566688/players/78318_jue4tl.png"
     },
     {
       "id": 9,
       "player": "Reggie Miller",
       "teamName": "Indiana Pacers",
-      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665566742/players/397_tjcnzp.png"
+      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,w_600/v1665566742/players/397_tjcnzp.png"
     },
     {
       "id": 10,
       "player": "Kareem Abdul-Jabbar",
       "teamName": "Milwaukee Bucks",
-      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665567308/players/gLpUPr8SJquC3LsteVXy3iNv6_y481x5.png"
+      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,w_600/v1665598054/players/image-1821_jdlnfl.png"
     },
     {
       "id": 11,
       "player": "Bob Pettit",
       "teamName": "Atlanta Hawks",
-      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665566847/players/77847_wdicc4.png"
+      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,w_600/v1665566847/players/77847_wdicc4.png"
     },
     {
       "id": 12,
       "player": "Gerald Wallace",
       "teamName": "Charlotte Hornets",
-      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665566898/players/1131e7e081e809c506f3c3b5e7f34951_qwe3o6.png"
+      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,w_600/v1665566898/players/1131e7e081e809c506f3c3b5e7f34951_qwe3o6.png"
     },
     {
       "id": 13,
@@ -361,13 +361,13 @@
       "id": 14,
       "player": "Dwight Howard",
       "teamName": "Orlando Magic",
-      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665567166/players/163-1636974_dwight-howard-shot-png-dwight-howard-shooting-ball_uo6jtg.png"
+      "playerImage": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2384.png"
     },
     {
       "id": 15,
       "player": "Wes Unseld",
       "teamName": "Washington Wizards",
-      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665567379/players/78392_pl8w1b.png"
+      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,w_600/v1665567379/players/78392_pl8w1b.png"
     },
     {
       "id": 16,
@@ -379,37 +379,37 @@
       "id": 17,
       "player": "Kevin Garnett",
       "teamName": "Minnesota Timberwolves",
-      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665567850/players/708_hv5arv.png"
+      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,w_600/v1665567850/players/708_hv5arv.png"
     },
     {
       "id": 18,
       "player": "Gary Payton",
       "teamName": "Oklahoma City Thunder",
-      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665567900/players/56_k3uabt.png"
+      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,w_600/v1665567900/players/56_k3uabt.png"
     },
     {
       "id": 19,
       "player": "Bill Walton",
       "teamName": "Portland Trail Blazers",
-      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665567954/players/78450_tzulom.png"
+      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,w_600/v1665567954/players/78450_tzulom.png"
     },
     {
       "id": 20,
       "player": "Karl Malone",
       "teamName": "Utah Jazz",
-      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665568007/players/252_lsfcsn.png"
+      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,w_600/v1665568007/players/252_lsfcsn.png"
     },
     {
       "id": 21,
       "player": "Stephen Curry",
       "teamName": "Golden State Warriors",
-      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665567207/players/steph_curry_png_transparent_by_freddieof_dbssr18-fullview.png_hdvbxm.png"
+      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,w_600/v1665567207/players/steph_curry_png_transparent_by_freddieof_dbssr18-fullview.png_hdvbxm.png"
     },
     {
       "id": 22,
       "player": "Bob McAdoo",
       "teamName": "Los Angeles Clippers",
-      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665568080/players/77498_gqahcw.png"
+      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,w_600/v1665568080/players/77498_gqahcw.png"
     },
     {
       "id": 23,
@@ -421,13 +421,13 @@
       "id": 24,
       "player": "Steve Nash",
       "teamName": "Phoenix Suns",
-      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665568240/players/steve-nash-face_5e2700cc02391_pat54l.png"
+      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,w_600/v1665568240/players/steve-nash-face_5e2700cc02391_pat54l.png"
     },
     {
       "id": 25,
       "player": "Oscar Robertson",
       "teamName": "Sacramento Kings",
-      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665568286/players/600015_zfxpsa.png"
+      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,w_600/v1665568286/players/600015_zfxpsa.png"
     },
     {
       "id": 26,
@@ -439,13 +439,13 @@
       "id": 27,
       "player": "Hakeem Olajuwon ",
       "teamName": "Houston Rockets",
-      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665568472/players/165_hmbc50.png"
+      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,w_600/v1665568472/players/165_hmbc50.png"
     },
     {
       "id": 28,
       "player": "Pau Gasol",
       "teamName": "Memphis Grizzlies",
-      "playerImage": "https://res.cloudinary.com/ddtufnl04/image/upload/v1665568537/players/pau-gasol-300xXx80_duz8lg.png"
+      "playerImage": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/996.png"
     },
     {
       "id": 29,

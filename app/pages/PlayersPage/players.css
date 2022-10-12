@@ -1,14 +1,14 @@
 
 section.players{
     background-image: url("https://www.transparenttextures.com/patterns/basketball.png");
+    display:flex;
+    justify-content: center;
 }
 
 .player{
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
-    align-items: center;
-    
 }
 .player > img {
     height:12vh;
@@ -23,15 +23,24 @@ section.players{
     justify-content: center
 }
 
+
 .upper-screen{
     display: flex;
-    width:90vh;
+    width:100vw;
     height: 50vh;
-    border: 1px;
-    padding-left: 0%;
+}
+.right{
+    margin:0px
+}
+    
+.left,
+.right {
+  width: 50%;
     
 }
+
 .left{
+    padding-top: 0;
     width: 50%;
     border: 1px;
     margin:0.4rem solid var(--secondary);
@@ -46,8 +55,6 @@ border: 0.3rem solid var(--navbar);
     background-image:url("https://www.transparenttextures.com/patterns/basketball.png");
     background-color: #eb6600;
     border: 0.3rem solid var(--navbar);
-    
-
 }
 .lower-screen{
     display: flex;

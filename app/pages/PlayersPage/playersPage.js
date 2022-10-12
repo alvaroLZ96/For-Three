@@ -52,7 +52,7 @@ export const playersPage= () =>{
         <div class="left"></div>
         <div class="center"><input type="text" id="search" placeholder="Search...:"/></div>
 
-        <div class="right" style="background: url(${"https://cdn.fansshare.com/photograph/nba/basketball-nba-logo-wallpapers-wallpaper-1409729417.jpg"}) no-repeat center center;
+        <div class="right" style="background: url(${"https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_340/v1665598710/players/Logo-NBA-Free-PNG_wmgbqj.png"}) no-repeat center center;
     background-size: cover 120%"></div>
     
     </div>
