@@ -18,7 +18,7 @@ item.player.toLowerCase().includes(word.toLowerCase())
 );
     const playerContainer = document.querySelector(".player-gallery");
     playerContainer.innerHTML ="";
-for(const item of list){
+for(const item of filteredPlayers){
     playerContainer.innerHTML += playerCard(item);
 }
 choosePlayer();
@@ -50,7 +50,10 @@ export const playersPage= () =>{
     <section class="players">
     <div class="upper-screen">
         <div class="left"></div>
-        <div class="center"><input type="text" id="search" placeholder="Search...:"/></div>
+        <div class="center">
+        <input class="input" type="text" id="search" placeholder="Search..."/>
+    
+        </div>
 
         <div class="right" style="background: url(${"https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_340/v1665598710/players/Logo-NBA-Free-PNG_wmgbqj.png"}) no-repeat center center;
     background-size: cover 120%"></div>
@@ -58,7 +61,7 @@ export const playersPage= () =>{
     </div>
     
     <div class="lower-screen">
-        <h2 id="player-name">Choose your player:</h2>
+        <h2 id="player-name">Elige tu jugador!</h2>
         <p id="player-desc">-</p>
     </div>
     
@@ -72,4 +75,6 @@ export const playersPage= () =>{
      searchInput.addEventListener("input", (ev)=>
      printPlayers(playersList, ev.target.value)
      )
+
+     
 };

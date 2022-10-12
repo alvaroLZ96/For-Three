@@ -11,6 +11,7 @@ header.innerHTML = navPage();
 const footer = document.querySelector("footer");
 footer.innerHTML = footerPage();
 
+
 home()
 
 
