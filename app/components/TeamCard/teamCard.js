@@ -1,6 +1,7 @@
 import "./teamCard.css";
 export const teamCard = (item) =>
   `
+  <a href=${item.website} target="_blank">
     <figure class="card" style="background: url(${item.imageTeam}) 
     no-repeat center center" background-size: cover padding: 10rem > 
          <div class="description">
@@ -10,4 +11,5 @@ export const teamCard = (item) =>
              <p>Palmarés: ${item.winnerYear.length}</p>
         </div>
      </figure>  
+  </a>
     `;

@@ -10,7 +10,8 @@
       "division": "Atlántico",
       "conference": "Este",
       "creationYear": "1946",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486561/celtics_omviva.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486561/celtics_omviva.png",
+      "website": "https://www.nba.com/celtics/"
     },
     {
       "id": 2,
@@ -19,7 +20,8 @@
       "division": "Atlántico",
       "conference": "Este",
       "creationYear": "1967",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,w_250/v1665504872/nba-brooklyn-nets-logo_x8fsdj.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,w_250/v1665504872/nba-brooklyn-nets-logo_x8fsdj.png",
+      "website": "https://www.nba.com/nets/"
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "division": "Atlántico",
       "conference": "Este",
       "creationYear": "1946",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_300/v1665486562/knicks_rop5qq.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_300/v1665486562/knicks_rop5qq.png",
+      "website": "https://www.nba.com/knicks/"
     },
     {
       "id": 4,
@@ -37,7 +40,8 @@
       "division": "Atlántico",
       "conference": "Este",
       "creationYear": "1946",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486563/sixers_vgqqtr.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486563/sixers_vgqqtr.png",
+      "website": "https://www.nba.com/sixers/"
     },
     {
       "id": 5,
@@ -46,9 +50,9 @@
       "division": "Atlántico",
       "conference": "Este",
       "creationYear": "1995",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486563/raptors_k4x3zt.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486563/raptors_k4x3zt.png",
+      "website": "https://www.nba.com/raptors/"
     },
-
     {
       "id": 6,
       "team": "Chicago Bulls",
@@ -56,7 +60,8 @@
       "division": "Central",
       "conference": "Este",
       "creationYear": "1966",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_200/v1665486561/chicago_mrvfqd.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_200/v1665486561/chicago_mrvfqd.png",
+      "website": "https://www.nba.com/bulls/"
     },
     {
       "id": 7,
@@ -65,7 +70,8 @@
       "division": "Central",
       "conference": "Este",
       "creationYear": "1970",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_230/v1665486561/cavaliers_yfpjbm.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_230/v1665486561/cavaliers_yfpjbm.png",
+      "website": "https://www.nba.com/cavaliers/"
     },
     {
       "id": 8,
@@ -74,7 +80,8 @@
       "division": "Central",
       "conference": "Este",
       "creationYear": "1941",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486563/pistons_ff9fl3.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486563/pistons_ff9fl3.png",
+      "website": "https://www.nba.com/pistons/"
     },
     {
       "id": 9,
@@ -83,7 +90,8 @@
       "division": "Central",
       "conference": "Este",
       "creationYear": "1967",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486563/pacers_knaetu.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486563/pacers_knaetu.png",
+      "website": "https://www.nba.com/pacers/"
     },
     {
       "id": 10,
@@ -92,7 +100,8 @@
       "division": "Central",
       "conference": "Este",
       "creationYear": "1968",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486561/buscks_ghhnmo.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486561/buscks_ghhnmo.png",
+      "website": "https://www.nba.com/bucks/"
     },
     {
       "id": 11,
@@ -101,7 +110,8 @@
       "division": "Sureste",
       "conference": "Este",
       "creationYear": "1946",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486561/ataltn_p9gspf.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486561/ataltn_p9gspf.png",
+      "website": "https://www.nba.com/hawks/"
     },
     {
       "id": 12,
@@ -110,7 +120,8 @@
       "division": "Sureste",
       "conference": "Este",
       "creationYear": "1988",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486562/hornets_zkpfec.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486562/hornets_zkpfec.png",
+      "website": "https://www.nba.com/hornets/"
     },
     {
       "id": 13,
@@ -119,7 +130,8 @@
       "division": "Sureste",
       "conference": "Este",
       "creationYear": "1988",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_200/v1665486562/miami_zyhk6s.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_200/v1665486562/miami_zyhk6s.png",
+      "website": "https://www.nba.com/heat/"
     },
     {
       "id": 14,
@@ -128,7 +140,8 @@
       "division": "Sureste",
       "conference": "Este",
       "creationYear": "1989",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486562/magic_na5vri.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486562/magic_na5vri.png",
+      "website": "https://www.nba.com/magic/"
     },
     {
       "id": 15,
@@ -137,7 +150,8 @@
       "division": "Sureste",
       "conference": "Este",
       "creationYear": "1961",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486563/wizards_pfbxuq.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486563/wizards_pfbxuq.png",
+      "website": "https://www.nba.com/wizards/"
     },
     {
       "id": 16,
@@ -146,7 +160,8 @@
       "division": "Noroeste",
       "conference": "Oeste",
       "creationYear": "1967",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_220/v1665486562/nuggets_e254gi.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_220/v1665486562/nuggets_e254gi.png",
+      "website": "https://www.nba.com/nuggets/"
     },
     {
       "id": 17,
@@ -155,7 +170,8 @@
       "division": "Noroeste",
       "conference": "Oeste",
       "creationYear": "1989",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,w_300/v1665486563/timberwolves_mby8jz.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,w_300/v1665486563/timberwolves_mby8jz.png",
+      "website": "https://www.nba.com/timberwolves/"
     },
     {
       "id": 18,
@@ -164,7 +180,8 @@
       "division": "Noroeste",
       "conference": "Oeste",
       "creationYear": "1967",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_220/v1665486562/nuggets_e254gi.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_220/v1665486562/nuggets_e254gi.png",
+      "website": "https://www.nba.com/thunder/"
     },
     {
       "id": 19,
@@ -173,7 +190,8 @@
       "division": "Noroeste",
       "conference": "Oeste",
       "creationYear": "1970",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_200/v1665486561/blazers_doxoik.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_200/v1665486561/blazers_doxoik.png",
+      "website": "https://www.nba.com/blazers/"
     },
     {
       "id": 20,
@@ -182,7 +200,8 @@
       "division": "Noroeste",
       "conference": "Oeste",
       "creationYear": "1974",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486562/jazz_z5kec9.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486562/jazz_z5kec9.png",
+      "website": "https://www.nba.com/jazz/"
     },
     {
       "id": 21,
@@ -191,7 +210,8 @@
       "division": "Pacífico",
       "conference": "Oeste",
       "creationYear": "1946",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_230/v1665486563/warriors_zzak4j.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_230/v1665486563/warriors_zzak4j.png",
+      "website": "https://www.nba.com/warriors/"
     },
     {
       "id": 22,
@@ -200,7 +220,8 @@
       "division": "Pacífico",
       "conference": "Oeste",
       "creationYear": "1970",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486562/clippers_gln1g6.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486562/clippers_gln1g6.png",
+      "website": "https://www.nba.com/clippers/"
     },
     {
       "id": 23,
@@ -212,7 +233,8 @@
       "division": "Pacífico",
       "conference": "Oeste",
       "creationYear": "1947",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486562/lakers_xlwopz.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486562/lakers_xlwopz.png",
+      "website": "https://www.nba.com/lakers/"
     },
     {
       "id": 24,
@@ -221,7 +243,8 @@
       "division": "Pacífico",
       "conference": "Oeste",
       "creationYear": "1968",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_220/v1665486563/suns_s7hryr.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_220/v1665486563/suns_s7hryr.png",
+      "website": "https://www.nba.com/suns/"
     },
     {
       "id": 25,
@@ -230,7 +253,8 @@
       "division": "Pacífico",
       "conference": "Oeste",
       "creationYear": "1923",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486562/kings_as5ytn.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486562/kings_as5ytn.png",
+      "website": "https://www.nba.com/kings/"
     },
     {
       "id": 26,
@@ -239,7 +263,8 @@
       "division": "Suroeste",
       "conference": "Oeste",
       "creationYear": "1980",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_200/v1665486562/dallas_z5gnrc.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_200/v1665486562/dallas_z5gnrc.png",
+      "website": "https://www.nba.com/mavericks/"
     },
     {
       "id": 27,
@@ -248,7 +273,8 @@
       "division": "Suroeste",
       "conference": "Oeste",
       "creationYear": "1967",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486562/houston_dnpj0a.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486562/houston_dnpj0a.png",
+      "website": "https://www.nba.com/rockets/"
     },
     {
       "id": 28,
@@ -257,7 +283,8 @@
       "division": "Suroeste",
       "conference": "Oeste",
       "creationYear": "1995",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_200/v1665486562/grizzlies_wcdyw0.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_200/v1665486562/grizzlies_wcdyw0.png",
+      "website": "https://www.nba.com/grizzlies/"
     },
     {
       "id": 29,
@@ -266,7 +293,8 @@
       "division": "Suroeste",
       "conference": "Oeste",
       "creationYear": "2002",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_200/v1665486563/pelicans_hywwjh.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_200/v1665486563/pelicans_hywwjh.png",
+      "website": "https://www.nba.com/pelicans/"
     },
     {
       "id": 30,
@@ -275,7 +303,8 @@
       "division": "Suroeste",
       "conference": "Oeste",
       "creationYear": "1967",
-      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486563/spurs_ck8hj9.png"
+      "imageTeam": "https://res.cloudinary.com/ddtufnl04/image/upload/c_scale,h_250/v1665486563/spurs_ck8hj9.png",
+      "website": "https://www.nba.com/spurs/"
     }
   ],
   "players": [
